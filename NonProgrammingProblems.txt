@@ -1,0 +1,12 @@
+Binary: 
+What is the Value of 1010?
+
+What is the Binary of 550?
+
+
+Boolean: 
+Solve this:
+x = True
+y = False
+(x and y) or ((not x or not y) and (x or not y))
+Explain why:
