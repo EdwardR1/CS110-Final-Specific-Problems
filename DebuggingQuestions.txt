@@ -1,0 +1,44 @@
+Syntax:
+
+1. 
+def firstTerm(2dlist):
+    for i in range(len(2dlist)):
+        print(2dlist[i[0]])
+
+
+2. 
+globalVariable = 2
+def changeGlobalVariable(y):
+    globalVariable = y
+
+
+3.
+def recursive(string, character):
+    if(len(string) <= 1):
+        if(string == character):
+            return True
+        return False
+    else:
+        return recursive(string[1:])
+
+
+4.
+def returnString(string):
+    return string
+    print(string)
+
+    
+    
+5.
+def quotes():
+    print("Hello world
+    print("This is weird")
+    ")
+
+
+6.
+def equality(x):
+    if(x = 1):
+        return True
+    else:
+        return False

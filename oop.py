@@ -16,3 +16,13 @@ class Subject:
 
 class Student:
     pass
+
+
+def test():
+    John = Student("John", [Subject("Introduction to Computer Science 1", "A"), Subject("Calculus 1", "A-")])
+    print(John.getName()) # Should print out "John"
+    CS1 = John.getSubjectByName("Introduction to Computer Science 1")
+    print(CS1.getName()) # Should print out "Introduction to Computer Science 1"
+    print(CS1.getGrade()) # Should print out "A"
+
+test()
