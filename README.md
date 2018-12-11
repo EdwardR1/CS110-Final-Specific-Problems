@@ -1,4 +1,4 @@
-# Final-Specific-Problems
+# CS110 Final-Specific-Problems
 Questions to help for the Final with Starter code to use
 
 ## Notes
@@ -13,4 +13,4 @@ Questions to help for the Final with Starter code to use
 
 
 ## Download:
-[Download File](https://github.com/EdwardR1/Final-Specific-Problems/archive/master.zip)
+[Download File](https://github.com/EdwardR1/CS110-Final-Specific-Problems/archive/master.zip)
